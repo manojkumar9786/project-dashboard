@@ -1,0 +1,41 @@
+.logo-container{
+    border-radius: 100%;
+    padding: 3px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.notification-container{
+    border: 1px solid gray;
+    padding: 8px;
+    border-radius: 100%;
+}
+.button-badge{
+    background-color: #fa3e3e;
+    border-radius: 100%;
+    padding: 5px;
+    position: absolute;
+    top: 14px;
+    right: 200px;
+}
+.user-details-container{
+    display: flex;
+    align-items: center;
+}
+.user-details{
+    color: #b0bca7;
+}
+.setting-icon-container{
+    border: 1px solid #b0bca7;
+    padding: 8px;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+
+.header-icon{
+    color: #b0bca7;
+}
+
+.header-description{
+    font-size: 10px;
+}

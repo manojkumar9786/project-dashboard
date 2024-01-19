@@ -1,0 +1,23 @@
+.nav-item{
+    cursor: pointer;
+}
+
+.nav-icon-container{
+    border: 1px solid #fff;
+    border-radius: 100%;
+    padding: 5px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-description{
+    color: ghostwhite;
+    font-size: 10px;
+}
+
+.nav-active{
+    background-color: #1da1f2;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
